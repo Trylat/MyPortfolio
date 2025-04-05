@@ -2,4 +2,7 @@ title: My Portfolio
 description: This is where you can learn more about my projects
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
