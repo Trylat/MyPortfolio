@@ -2,4 +2,6 @@
 layout: default
 ---
 
-[Link to another page](./about/contact.md) | [Projects list](./projects/project-list.md).
+[Main Menu]() | [Link to another page](./about/contact.md) | [Projects list](./projects/project-list.md).
+
+
