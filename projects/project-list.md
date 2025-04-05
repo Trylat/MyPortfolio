@@ -1,4 +1,4 @@
-[Main Menu](../index.md) | [Link to another page](../about/contact.md) | [Projects list]().
+[Main Menu](../index.md) | [Link to another page](../about/contact.md) | [Projects list]()
 
 # Liste de projets
 
@@ -6,4 +6,3 @@
 * WyrmBox
 * Networking
 * Linux Journey
-* 
